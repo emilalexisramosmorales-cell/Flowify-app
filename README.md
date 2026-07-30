@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=600&lines=🎵+FLOWIFY" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=55&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=600&lines=🎵+FLOWIFY" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=The+most+advanced+Android+music+player+built+in+Flutter;El+reproductor+de+m%C3%BAsica+Android+m%C3%A1s+avanzado+en+Flutter;Experience+music+like+never+before;Experimenta+la+m%C3%BAsica+como+nunca+antes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=750&lines=The+most+advanced+Android+music+player+built+in+Flutter;El+reproductor+de+m%C3%BAsica+Android+m%C3%A1s+avanzado+en+Flutter;Experience+music+like+never+before;Experimenta+la+m%C3%BAsica+como+nunca+antes" />
 
 <br/>
 
@@ -11,9 +11,7 @@
 ![Status](https://img.shields.io/badge/Status-In+Development-FF6B35?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Alexis+Ramos-00FF88?style=for-the-badge)
 
-<br/>
-
-<!-- PLAY STORE BADGE — activar cuando se publique -->
+<!-- ACTIVAR CUANDO SE PUBLIQUE EN PLAY STORE -->
 <!-- [![Play Store](https://img.shields.io/badge/Download+on-Google+Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=TU_ID_AQUI) -->
 
 </div>
@@ -24,7 +22,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=5000&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=✨+What+is+Flowify%3F;✨+%C2%BFQu%C3%A9+es+Flowify%3F" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=500&color=aaaaaa&center=true&vCenter=true&width=750&lines=Flowify+is+not+just+a+music+player+%E2%80%94+it%27s+an+experience;Flowify+no+es+solo+un+reproductor+%E2%80%94+es+una+experiencia;Built+with+passion%2C+Flutter+and+a+custom+design+system;Construido+con+pasi%C3%B3n%2C+Flutter+y+un+sistema+de+dise%C3%B1o+propio" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=500&color=aaaaaa&center=true&vCenter=true&width=750&lines=Flowify+is+not+just+a+music+player+%E2%80%94+it%27s+an+experience;Flowify+no+es+solo+un+reproductor+%E2%80%94+es+una+experiencia;Built+with+passion%2C+Flutter+%26+a+custom+design+system;Construido+con+pasi%C3%B3n%2C+Flutter+y+un+sistema+de+dise%C3%B1o+propio" />
 
 </div>
 
@@ -83,14 +81,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=5000&pause=500&color=555555&center=true&vCenter=true&width=500&lines=Screenshots+coming+soon...;Capturas+de+pantalla+proximamente..." />
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191457.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191546.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191556.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191603.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191619.jpg" width="160"/>
 
-<!-- SCREENSHOTS — subir al repo y reemplazar las URLs -->
-<!--
-<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/screenshot1.png" width="200"/>
-<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/screenshot2.png" width="200"/>
-<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/screenshot3.png" width="200"/>
--->
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191638.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191700.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191712.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191717.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/emilalexisramosmorales-cell/Flowify-app/main/Screenshot_20260729_191721.jpg" width="160"/>
 
 </div>
 
@@ -121,7 +124,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=500&color=ffffff&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Alexis+Ramos+%E2%80%94+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;Hecho+con+%E2%9D%A4%EF%B8%8F+por+Alexis+Ramos+%E2%80%94+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=500&color=ffffff&center=true&vCenter=true&width=650&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Alexis+Ramos+%E2%80%94+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;Hecho+con+%E2%9D%A4%EF%B8%8F+por+Alexis+Ramos+%E2%80%94+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB" />
 
 <br/>
 
