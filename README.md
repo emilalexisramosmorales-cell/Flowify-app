@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=55&duration=99999&pause=99999&color=00FF88&center=true&vCenter=true&width=600&lines=🎵+FLOWIFY" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=750&lines=The+most+advanced+Android+music+player+built+in+Flutter;El+reproductor+de+m%C3%BAsica+Android+m%C3%A1s+avanzado+en+Flutter;Experience+music+like+never+before;Experimenta+la+m%C3%BAsica+como+nunca+antes" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=750&lines=The+most+advanced+Android+music+player+built+in+Flutter;El+reproductor+de+m%C3%BAsica+avanzado+para+Android+hecho+en+Flutter;Experience+music+like+never+before;Experimenta+la+m%C3%BAsica+como+nunca+antes" />
 
 <br/>
 
@@ -11,8 +11,19 @@
 ![Status](https://img.shields.io/badge/Status-In+Development-FF6B35?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Alexis+Ramos-00FF88?style=for-the-badge)
 
-<!-- ACTIVAR CUANDO SE PUBLIQUE EN PLAY STORE -->
-<!-- [![Play Store](https://img.shields.io/badge/Download+on-Google+Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=TU_ID_AQUI) -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=5000&pause=500&color=aaaaaa&center=true&vCenter=true&width=800&lines=Advanced+music+player+with+synced+lyrics%2C+dynamic+colors+%26+Liquid+Glass+UI;Reproductor+avanzado+con+letras+sincronizadas%2C+colores+din%C3%A1micos+e+interfaz+Liquid+Glass;Equalizer+%7C+Sleep+Timer+%7C+Firebase+Auth+%7C+Auto-Queue+%7C+Karaoke+Lyrics;Ecualizador+%7C+Temporizador+%7C+Firebase+%7C+Cola+auto+%7C+Letras+Karaoke" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=5000&pause=500&color=00FF88&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Download+it+now+on+Play+Store!;%F0%9F%9A%80+%C2%A1Desc%C3%A1rgala+ya+en+Play+Store!" />
+
+<br/>
+
+[![PRÓXIMAMENTE — Google Play](https://img.shields.io/badge/%F0%9F%8E%B5_FLOWIFY-PR%C3%93XIMAMENTE_EN_GOOGLE_PLAY_%E2%9C%A8-0D0D0D?style=for-the-badge&logo=google-play&logoColor=00FF88)](https://github.com/emilalexisramosmorales-cell/Flowify-app)
+
+![Coming Soon](https://img.shields.io/badge/%E2%8F%B3_Coming_Soon-Stay_Tuned_%F0%9F%94%A5-FF6B35?style=for-the-badge)
 
 </div>
 
